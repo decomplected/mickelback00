@@ -2,7 +2,7 @@
 
 Thank you for visiting my profile on GitHub.
 
-My name is Mick and I'm a hands-on software architecht who's pasinate about learning evermore about fostering and enabling high-performing teams. I enjoy following the research from (DORA)[https://bit.ly/dora-bfd], learning how grow and implement the collective practices surounding CI/CD driving to ever improving software delivery performance.
+My name is Mick and I'm a hands-on software architecht who's pasinate about learning evermore about fostering and enabling high-performing teams. I enjoy following the research from [DORA](https://bit.ly/dora-bfd), learning how grow and implement the collective practices surounding CI/CD driving to ever improving software delivery performance.
 
 <!--
 **Mickelback00/mickelback00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
