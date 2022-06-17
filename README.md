@@ -2,9 +2,11 @@
 
 Thank you for visiting my GitHub profile ::octo:: .
 
-My name is Mick, and I'm a hands-on software architect who's passionate about learning evermore about fostering and enabling high-performing teams.  The research from [DORA](https://bit.ly/dora-bfd) resonates deeply with me based on my first-hand background in production manufacturing ranging from physical product manufacturing at La-Z-Boy to the Reusable Solid Rocket (RSRM) boosters used by the Space Shuttle at NASA and the Space Shuttle.  
+My name is Mick, and I'm a hands-on software architect who's passionate about learning evermore about fostering and enabling high-performing teams.  The research from [DORA](https://bit.ly/dora-bfd) resonates deeply with me based on my first-hand background in production manufacturing and from the various training and exposures to the practices of Lean.  
 
-The insights from DORA and the data-backed principles are critical to guiding technologists in our relativly young industry.  Using data-driven learnings, we must continually iterate on further evolution and discovery through the _turning Point_ of the [Age of Software](https://www.tasktop.com/blog/covid-19-triggered-the-turning-point) and _Digital Disruption_.  Our collective engineering practices must ever-improve, not just to keep up with the pace of rapid technological change, but to continuously server, deliver, and ultimatly delight our customers.
+I've been fortunate to see these benefits ranging from physical product manufacturing, in the life sciences and medical industries where eliminating errors isn't just better efficiencies but real life-saving results; lastly, on programs that are out of this world, being utilized by our nation's space and ballistic missile programs. 
+
+It's exciting to see how much is applicable to technology and consider how employing these techniques formalize software development into a proper [modern engineering discipline](https://www.davefarley.net/?p=352).
 
 <!--
 **Mickelback00/mickelback00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
