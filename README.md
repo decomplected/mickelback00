@@ -1,8 +1,10 @@
 ### Hello World 👋
 
-Thank you for visiting my profile on GitHub.
+Thank you for visiting my GitHub profile ::octo:: .
 
-My name is Mick and I'm a hands-on software architecht who's pasionate about learning evermore about fostering and enabling high-performing teams. I enjoy following the research from [DORA](https://bit.ly/dora-bfd), learning how grow and implement the collective practices surounding CI/CD driving to ever improving software delivery performance.
+My name is Mick, and I'm a hands-on software architect who's passionate about learning evermore about fostering and enabling high-performing teams.  The research from [DORA](https://bit.ly/dora-bfd) resonates deeply with me based on my first-hand background in production manufacturing ranging from physical product manufacturing at La-Z-Boy to the Reusable Solid Rocket (RSRM) boosters used by the Space Shuttle at NASA and the Space Shuttle.  
+
+The insights from DORA and the data-backed principles are critical to guiding technologists in our relativly young industry.  Using data-driven learnings, we must continually iterate on further evolution and discovery through the _turning Point_ of the [Age of Software](https://www.tasktop.com/blog/covid-19-triggered-the-turning-point) and _Digital Disruption_.  Our collective engineering practices must ever-improve, not just to keep up with the pace of rapid technological change, but to continuously server, deliver, and ultimatly delight our customers.
 
 <!--
 **Mickelback00/mickelback00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
