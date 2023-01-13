@@ -1,12 +1,14 @@
 ### Hello World 👋
 
-Thank you for visiting my GitHub profile ::octo:: .
+Thank you for visiting my GitHub profile.
 
-My name is Mick, and I'm a hands-on software architect who's passionate about learning evermore about fostering and enabling high-performing teams.  The research from [DORA](https://bit.ly/dora-bfd) resonates deeply with me based on my first-hand background in production manufacturing and from the various training and exposures to the practices of Lean.  
+My name is Mick and I'm a hands-on technologist who's passionate about learning evermore to foster and enable high-performing teams. 
 
-I've been fortunate to see these benefits ranging from physical product manufacturing, in the life sciences and medical industries where eliminating errors isn't just better efficiencies but real life-saving results; lastly, on programs that are out of this world, being utilized by our nation's space and ballistic missile programs. 
+The research from [DORA](https://bit.ly/dora-bfd) resonates deeply with me based on my first-hand background in production manufacturing and from the various training and exposures to the practices of Lean principles.  Much of the learning and ways of working from Lean are what’s applied from modern DevOps, which focuses on end-to-end positive business outcomes over local optimizations.  
 
-It's exciting to see how much is applicable to technology and consider how employing these techniques formalize software development into a proper [modern engineering discipline](https://www.davefarley.net/?p=352).
+I've been fortunate to see such principles applied in several industries: physical product manufacturing - resulting in cheaper and faster lead times, life sciences and medical - where eliminating errors and waste isn't just better efficiencies but manifests life-saving results, and within programs that are literally out of this world, utilized by our nation's space and ballistic missile programs.
+
+It's exciting to see how many ways industries of all shapes and sizes benefit from such simple ways of working and consider how employing these techniques and the capabilities outlined by [DORA](https://bit.ly/dora-bfd) formalizes software development into a proper [modern engineering](https://www.davefarley.net/?p=352) discipline.
 
 <!--
 **Mickelback00/mickelback00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
